@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://13.232.34.185:8095/skillassure-training/lob/fit/ibh/tracks/e-commerce.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "21-B"]
+	remote = origin
+	merge = refs/heads/21-B
